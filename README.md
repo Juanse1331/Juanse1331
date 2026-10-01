@@ -2,9 +2,9 @@
 
 # ¡Hola! Soy Juanse 
 
-**Estudiante de Ingeniería de Sistemas · Desarrollador Full Stack en formación**
+**Estudiante de Ingeniería de Sistemas en la Universidad Industrial de Santander · Desarrollador Full Stack en formación**
 
-Me gusta construir cosas que funcionen de punta a punta: APIs con Django y apps con Vue y TypeScript.
+Me gusta construir cosas que funcionen de punta a punta: APIs con Django y apps con Angular, Vue y TypeScript.
 
 </div>
 
@@ -12,17 +12,17 @@ Me gusta construir cosas que funcionen de punta a punta: APIs con Django y apps 
 
 ##  Sobre mí
 
--  Estudio en la universidad y participo en el **ACEIS** (Copa Hello World).
--  Ahora mismo trabajo en **NightBarSystem**, un sistema para meseros, bartenders y administradores.
+-  Estudio en la universidad y participo en el **ACEIS**.
+-  Ahora mismo trabajo en **NightBarSystem, sgc**, un sistema para meseros, bartenders y administradores y un sistema de gestion de profecionales para IPS.
 -  Estoy aprendiendo: TypeScript avanzado, testing y despliegue en la nube.
--  Pregúntame sobre: Python, Django, JavaScript y Vue.
+-  Pregúntame sobre: Angualr, Python, Django, JavaScript y Vue.
 -  Contacto: juansebastian.suarez13@gmail.com
 
 ##  Stack
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python,django,js,ts,vue,html,css,git,github,vscode)
+![Python](https://skillicons.dev/icons?i=python,django,js,ts,vue,html,css,git,github,vscode,angular,springboot)
 
 </div>
 
