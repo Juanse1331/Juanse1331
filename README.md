@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Juanse 👋
+# ¡Hola! Soy Juanse 
 
 **Estudiante de Ingeniería de Sistemas · Desarrollador Full Stack en formación**
 
@@ -10,15 +10,15 @@ Me gusta construir cosas que funcionen de punta a punta: APIs con Django y apps 
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
-- 🎓 Estudio en la universidad y participo en el **ACEIS** (Copa Hello World).
-- 🔭 Ahora mismo trabajo en **NightBarSystem**, un sistema para meseros, bartenders y administradores.
-- 🌱 Estoy aprendiendo: TypeScript avanzado, testing y despliegue en la nube.
-- 💬 Pregúntame sobre: Python, Django, JavaScript y Vue.
-- 📫 Contacto: [TU_LINKEDIN](https://www.linkedin.com/in/TU_USUARIO) · juansebastian.suarez13@gmail.com
+-  Estudio en la universidad y participo en el **ACEIS** (Copa Hello World).
+-  Ahora mismo trabajo en **NightBarSystem**, un sistema para meseros, bartenders y administradores.
+-  Estoy aprendiendo: TypeScript avanzado, testing y despliegue en la nube.
+-  Pregúntame sobre: Python, Django, JavaScript y Vue.
+-  Contacto: juansebastian.suarez13@gmail.com
 
-## 🛠️ Stack
+##  Stack
 
 <div align="center">
 
@@ -26,7 +26,7 @@ Me gusta construir cosas que funcionen de punta a punta: APIs con Django y apps 
 
 </div>
 
-## 📌 Proyectos destacados
+##  Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
@@ -35,7 +35,7 @@ Me gusta construir cosas que funcionen de punta a punta: APIs con Django y apps 
 | [hello-world-quiz](https://github.com/Juanse1331/hello-world-quiz) | Quiz de fundamentos de programación. | Vue |
 | [Proyecto](https://github.com/Juanse1331/Proyecto) | Proyecto final. | Python |
 
-## 📊 Estadísticas
+##  Estadísticas
 
 <div align="center">
 
@@ -50,6 +50,6 @@ Me gusta construir cosas que funcionen de punta a punta: APIs con Django y apps 
 
 <div align="center">
 
-⭐ Si algún proyecto te sirvió, ¡regálame una estrella!
+ Si algún proyecto te sirvió, ¡regálame una estrella!
 
 </div>
